@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var dashdash	= require('dashdash');
-var fs 			= require("fs")
+var fs          = require("fs")
 
 var options = [
     {
