@@ -1,0 +1,28 @@
+{
+  "name": "go-asset",
+  "version": "0.1.0",
+  "description": "Embed a static file into a Golang package.",
+  "main": "index.js",
+  "bin": {
+    "go-asset": "./go-asset.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quarton/go-asset.git"
+  },
+  "keywords": [
+    "embed",
+    "asset",
+    "golang"
+  ],
+  "author": "Andrew Quarton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarton/go-asset/issues"
+  },
+  "homepage": "https://github.com/quarton/go-asset#readme",
+  "dependencies": {
+    "dashdash": "^1.14.1",
+    "fs": "0.0.1-security",
+  }
+}
