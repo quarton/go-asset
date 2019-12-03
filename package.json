@@ -23,6 +23,6 @@
   "homepage": "https://github.com/quarton/go-asset#readme",
   "dependencies": {
     "dashdash": "^1.14.1",
-    "fs": "0.0.1-security",
+    "fs": "0.0.1-security"
   }
 }

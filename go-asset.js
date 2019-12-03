@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var dashdash	= require('dashdash');
 var fs 			= require("fs")
 
